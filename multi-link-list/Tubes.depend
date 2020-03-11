@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1524302548 source:c:\users\santo\desktop\tugas\strukdat\tubes\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1524367171 source:c:\users\santo\desktop\tugas\strukdat\tubes\tubes.cpp
+	"Tubes.h"
+
+1524318509 c:\users\santo\desktop\tugas\strukdat\tubes\tubes.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1524302548 source:c:\users\pkm_pondoksalam\desktop\tubes\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1524370584 c:\users\pkm_pondoksalam\desktop\tubes\tubes.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1524382194 source:c:\users\pkm_pondoksalam\desktop\tubes\tubes.cpp
+	"Tubes.h"
+
+1524302548 source:c:\users\pkm_pondoksalam\desktop\kuliah\projects\tubes\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1524370584 c:\users\pkm_pondoksalam\desktop\kuliah\projects\tubes\tubes.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1524382461 source:c:\users\pkm_pondoksalam\desktop\kuliah\projects\tubes\tubes.cpp
+	"Tubes.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1520008362 source:c:\users\shadow\desktop\new folder (2)\pr\main.cpp
+	<iostream>
+	"algorithm.cpp"
+	"header.h"
+
+1520008441 c:\users\shadow\desktop\new folder (2)\pr\algorithm.cpp
+	<iostream>
+	"header.h"
+
+1520003766 c:\users\shadow\desktop\new folder (2)\pr\header.h
+

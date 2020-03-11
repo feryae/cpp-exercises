@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519990069 source:c:\users\user.user-pc\desktop\kuliah\strukdat\std_homework\main.cpp
+	<iostream>
+	"list.cpp"
+	"list.h"
+
+1519990669 c:\users\user.user-pc\desktop\kuliah\strukdat\std_homework\list.cpp
+	"list.h"
+
+1519990419 c:\users\user.user-pc\desktop\kuliah\strukdat\std_homework\list.h
+

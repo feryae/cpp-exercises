@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517154450 source:c:\users\shadow\desktop\fastforeyes\hello\main.cpp
+	"hello.h"
+
+1517154493 c:\users\shadow\desktop\fastforeyes\hello\include\hello.h
+	<iostream>
+	<cstdlib>
+

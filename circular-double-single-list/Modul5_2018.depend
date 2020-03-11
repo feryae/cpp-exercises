@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1519443130 source:c:\users\andityaarifianto\documents\cpp\modul5_2018\doublelist.cpp
+	"doublelist.h"
+
+1519443112 c:\users\andityaarifianto\documents\cpp\modul5_2018\doublelist.h
+	<iostream>
+	"infotype.h"
+
+1519442222 c:\users\andityaarifianto\documents\cpp\modul5_2018\infotype.h
+
+1519442687 source:c:\users\andityaarifianto\documents\cpp\modul5_2018\singlelist.cpp
+	"singlelist.h"
+
+1519442557 c:\users\andityaarifianto\documents\cpp\modul5_2018\singlelist.h
+	<iostream>
+	"infotype.h"
+
+1519448121 source:c:\users\andityaarifianto\documents\cpp\modul5_2018\circularlist.cpp
+	"circularlist.h"
+
+1519446723 c:\users\andityaarifianto\documents\cpp\modul5_2018\circularlist.h
+	<iostream>
+	"infotype.h"
+

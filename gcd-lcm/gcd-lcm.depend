@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1524711653 source:c:\users\pkm_pondoksalam\desktop\cp\cp\main.cpp
+	"header.h"
+
+1524711349 c:\users\pkm_pondoksalam\desktop\cp\cp\algorithm.cpp
+	"header.h"
+
+1524721891 c:\users\pkm_pondoksalam\desktop\cp\cp\header.h
+	<cstdlib>
+	"conio.h"
+	<iostream>
+
+1524722876 source:c:\users\pkm_pondoksalam\desktop\cp\cp\algorithm.cpp
+	"header.h"
+
+1524711653 source:c:\users\pkm_pondoksalam\desktop\kuliah\projects\cp\cp\main.cpp
+	"header.h"
+
+1524721891 c:\users\pkm_pondoksalam\desktop\kuliah\projects\cp\cp\header.h
+	<cstdlib>
+	"conio.h"
+	<iostream>
+
